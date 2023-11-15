@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background : transparent;
+    text-decoration: none;
+    font-family: 'Urbanist]', cursive;
+    font-size:medium;
+    
+}
+
+body {
+    background: rgb(30, 28, 28);
+    overflow: hidden;
+    overflow-y: scroll;
+    color: aliceblue;
+}
