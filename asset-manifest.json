@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PortFolio-1/static/css/main.987d98a6.css",
+    "main.js": "/PortFolio-1/static/js/main.7c08ea11.js",
+    "static/media/introImg.png": "/PortFolio-1/static/media/introImg.41f5110b43995f817049.png",
+    "static/media/PngItem_277677.png": "/PortFolio-1/static/media/PngItem_277677.40e0d8acc2aa9a92289f.png",
+    "static/media/img4.jpg": "/PortFolio-1/static/media/img4.d1382229399a7a074fc3.jpg",
+    "static/media/Khadi.jpg": "/PortFolio-1/static/media/Khadi.6486a520568bfa0fa500.jpg",
+    "static/media/eh.jpg": "/PortFolio-1/static/media/eh.f6881f55fb0f10a93ef3.jpg",
+    "static/media/img1.jpg": "/PortFolio-1/static/media/img1.cc96ae94b275680a5d7d.jpg",
+    "static/media/img2.jpg": "/PortFolio-1/static/media/img2.b226811623127a72fa4c.jpg",
+    "static/media/web-developer.jpg": "/PortFolio-1/static/media/web-developer.72df10d48db0a6a5c726.jpg",
+    "static/media/Mahindra.jpg": "/PortFolio-1/static/media/Mahindra.76d9ab7a3ad4838d2511.jpg",
+    "static/media/aws-cloud.jpg": "/PortFolio-1/static/media/aws-cloud.9bc703eea71be79a17b4.jpg",
+    "index.html": "/PortFolio-1/index.html",
+    "main.987d98a6.css.map": "/PortFolio-1/static/css/main.987d98a6.css.map",
+    "main.7c08ea11.js.map": "/PortFolio-1/static/js/main.7c08ea11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.987d98a6.css",
+    "static/js/main.7c08ea11.js"
+  ]
+}
